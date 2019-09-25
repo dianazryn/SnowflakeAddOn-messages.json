@@ -1,0 +1,12 @@
+* Tor Project / SnowflakeAddOn-messages.json / string 6 *
+
+ORIGINAL TEXT
+-------------
+Number of users currently connected:
+
+TRANSLATION
+-----------
+Количество подключенных в данный момент пользователей:
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
