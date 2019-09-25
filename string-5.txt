@@ -1,0 +1,12 @@
+* Tor Project / SnowflakeAddOn-messages.json / string 5 *
+
+ORIGINAL TEXT
+-------------
+Snowflake is off
+
+TRANSLATION
+-----------
+Snowflake выключен
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
