@@ -1,0 +1,12 @@
+* Tor Project / SnowflakeAddOn-messages.json / string 9 *
+
+ORIGINAL TEXT
+-------------
+Number of users your Snowflake has helped circumvent censorship in the last 24 hours:
+
+TRANSLATION
+-----------
+Количество пользователей, которым ваш Snowflake помог обойти цензуру за последние 24 часа:
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
