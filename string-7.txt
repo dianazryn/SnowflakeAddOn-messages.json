@@ -1,0 +1,12 @@
+* Tor Project / SnowflakeAddOn-messages.json / string 7 *
+
+ORIGINAL TEXT
+-------------
+Your Snowflake is ready to help users circumvent censorship
+
+TRANSLATION
+-----------
+Ваш Snowflake готов помочь пользователям обойти цензуру
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
