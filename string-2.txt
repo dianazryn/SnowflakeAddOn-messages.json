@@ -1,0 +1,12 @@
+* Tor Project / SnowflakeAddOn-messages.json / string 2 *
+
+ORIGINAL TEXT
+-------------
+Turn On
+
+TRANSLATION
+-----------
+Включить
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
