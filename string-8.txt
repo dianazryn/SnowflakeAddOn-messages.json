@@ -1,0 +1,12 @@
+* Tor Project / SnowflakeAddOn-messages.json / string 8 *
+
+ORIGINAL TEXT
+-------------
+WebRTC feature is not detected.
+
+TRANSLATION
+-----------
+WebRTC не обнаружен.
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
