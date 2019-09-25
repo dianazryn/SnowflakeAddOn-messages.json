@@ -1,0 +1,12 @@
+* Tor Project / SnowflakeAddOn-messages.json / string 1 *
+
+ORIGINAL TEXT
+-------------
+Snowflake is a WebRTC pluggable transport for Tor.
+
+TRANSLATION
+-----------
+Snowflake - это подключаемый транспорт для Tor через WebRTC.
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
