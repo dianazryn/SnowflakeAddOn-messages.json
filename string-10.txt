@@ -1,0 +1,12 @@
+* Tor Project / SnowflakeAddOn-messages.json / string 10 *
+
+ORIGINAL TEXT
+-------------
+Cookies are not enabled.
+
+TRANSLATION
+-----------
+Файлы-куки не включены.
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
