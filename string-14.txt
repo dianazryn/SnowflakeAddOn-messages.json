@@ -1,0 +1,12 @@
+* Tor Project / SnowflakeAddOn-messages.json / string 14 *
+
+ORIGINAL TEXT
+-------------
+If your internet access is censored, you should download Tor Browser.
+
+TRANSLATION
+-----------
+Если ваш доступ к Интернету подвергается цензуре, вам следует скачать Tor Browser.
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
