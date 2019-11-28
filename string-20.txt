@@ -1,0 +1,14 @@
+* Tor Project / SnowflakeAddOn-messages.json / string 20 *
+
+ORIGINAL TEXT
+-------------
+If you encounter problems with Snowflake as a client or a proxy, please consider filing a bug.
+To do so, you will have to,
+
+TRANSLATION
+-----------
+Если у вас возникли проблемы с Snowflake в качестве клиента или прокси-сервера, пожалуйста, отправьте отчет об ошибке.
+Для этого вам нужно,
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
