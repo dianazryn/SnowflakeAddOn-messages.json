@@ -1,0 +1,18 @@
+* Tor Project / SnowflakeAddOn-messages.json / string 23 *
+
+ORIGINAL TEXT
+-------------
+Please try to be as descriptive as possible with your ticket and if possible
+include log messages that will help us reproduce the bug. Consider adding keywords
+snowflake-webextension or snowflake-client to let us know how which part of the
+Snowflake system is experiencing problems.
+
+TRANSLATION
+-----------
+Пожалуйста, постарайтесь как можно подробно описать проблему в вашей жалобе и, если возможно,
+включите сообщения из журнала, которые помогут нам воспроизвести ошибку. Рассмотрите возможность
+добавления ключевых слов snowflake-webextension или snowflake-client, чтобы сообщить нам, какая
+часть системы Snowflake испытывает проблемы.
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
